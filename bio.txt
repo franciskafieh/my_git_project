@@ -1,1 +1,3 @@
 Hello, My name is Francis Kafieh. I am learning Git and GitHub!
+
+Contact Info: foo@yorku.ca
